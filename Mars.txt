@@ -1,5 +1,5 @@
 Mars is about the same size as Earth. But has no water. Atmosphere has no oxygen.
 
-Some robots are present on Mars to study the surface.
+Some(Two) robots are present on Mars to study the surface.
 
 One robot did not respond.
